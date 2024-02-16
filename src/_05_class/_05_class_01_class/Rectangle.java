@@ -1,4 +1,4 @@
-package _05_class_01_class;
+package _05_class._05_class_01_class;
 
 public class Rectangle {
 
